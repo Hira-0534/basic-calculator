@@ -51,6 +51,6 @@ This calculator project is part of my learning journey to strengthen frontend de
 
 💡 If you have any suggestions or feedback, feel free to connect!
 
-**GitHub: Hira-0534**
+GitHub: @Hira-0534
 
 ⭐ If you like this project, don’t forget to give it a star to support my learning journey!
